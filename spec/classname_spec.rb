@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'pry'
+
 
 describe ClassName do
    
@@ -14,7 +14,7 @@ describe ClassName do
  #Test to make sure it can do a thing  
    it 'can do a thing' do
 
-      expect(do_a_thing()).to eq(true)
+      #expect(do_a_thing()).to eq(true)
    end
    
 end
